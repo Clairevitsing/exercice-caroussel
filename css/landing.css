@@ -1,0 +1,7 @@
+header{
+    background: url(../img/hero.jpg) no-repeat center;
+    background-size:cover;
+    /* height:100vh; */
+}
+
+/* 照片对应的并不好，高度没有样本中的高 */
